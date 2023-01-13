@@ -144,3 +144,4 @@ dist
 .yarn/build-state.yml
 .pnp.*
 api/package-lock.json
+client/.env
