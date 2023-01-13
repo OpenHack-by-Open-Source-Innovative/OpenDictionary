@@ -1,0 +1,19 @@
+{
+  "name": "opendictionary-api",
+  "version": "1.0.0",
+  "description": "api for opendictionary",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
